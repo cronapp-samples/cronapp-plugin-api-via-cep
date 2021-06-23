@@ -1,0 +1,21 @@
+[
+  {
+    "gluonsoftId": "EE970DBD-9A27-42F5-BC99-106567F160AB",
+    "versionId": "BF2B37E4-5FED-47AC-B849-7448975EEF0F",
+    "name": "PluginCEP",
+    "version": "1.0",
+    "dateAdded": "2021-05-10 10:39:12",
+    "filesAdded": [
+      {
+        "name": "PluginCEP.java",
+        "path": "/src/main/java/cronapi/PluginCEP.java"
+      }
+    ],
+    "filesTmp": [
+      {
+        "name": "PluginCEP.java",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/BF2B37E4-5FED-47AC-B849-7448975EEF0F/src/main/java/cronapi/PluginCEP.java"
+      }
+    ]
+  }
+]
